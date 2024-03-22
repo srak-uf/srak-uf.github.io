@@ -47,7 +47,7 @@ Education
 			<i>April 2018 - March 2020, Tokyo, Japan</i> <br/>
 			MEng, Chemical Science and Engineering, Tokyo Institute of Technology <br/>
 			Supervisor: Dr. Susumu Kawauchi <br/>
-      Thesis: Accelerating Molecular Dynamics Simulation of Liquid Crystals and　Theoretical Investigation of the Heat Conductive Mechanism <br/>
+      Thesis: Accelerating Molecular Dynamics Simulation of Liquid Crystals and Theoretical Investigation of the Heat Conductive Mechanism <br/>
       <!-- 液晶相の分子動力学計算の効率化と熱伝導機構の理論的解明 -->
 			Keywords: Molecular dynamics, Liquid crystal, Thermal conductivity, Phase transition, Nonequilibrium thermodynamics, Polymer
 			</p>
