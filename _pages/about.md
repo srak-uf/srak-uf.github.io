@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ryoma Sasaki is a hoge researcher at ??? where I study computational materials science using high performance computing (molecular dynamics and quantum chemical calculation), statistical physics, and machine learning. 
+I am a ??? researcher at ??? where I study computational materials science using high performance computing (molecular dynamics and quantum chemical calculation), statistical physics, and machine learning. 
 
 I graduated with PhD (Engineering) from the Department of Chemical Science and Engineering at Tokyo Institute of Technology. 
 For more information, see my CV.
