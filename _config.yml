@@ -12,7 +12,7 @@ title                    : "Ryoma Sasaki"
 title_separator          : "-"
 name                     : &name "Ryoma Sasaki"
 description              : &description "Researcher at ???"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://srak-uf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "srak-uf/srak-uf.github.io"
 
