@@ -19,14 +19,15 @@ I am interested in **atomistic-scale transport phenomena** of practical material
 - Atomistic simulation
   - Molecular dynamics
   - Quantum chemical calculation
-- Atomistic-scale transport phenomena / Statistical physcis
+- Atomistic-scale transport phenomena, Statistical physcis
   - Thermal conductivity
   - Viscosity
-  - Diffusion coefficient
-  - Ionic conductivity
+  - Diffusion coefficient, Ionic conductivity
   - Dielectric constant
 - Mesophase materials / Soft matters
-  - Liquid crystal
-  - Polymer
-  - Solid electrolyte
-  - Glassy electrolyte
+  - Liquid crystal, Polymer
+  - Solid electrolyte, Highly concentrated electrolyte
+
+News
+======
+2024/03/22: Opened individual web page!
