@@ -22,19 +22,7 @@ Education
 			PhD in Engineering, Chemical Science and Engineering, Tokyo Institute of Technology <br/>
 			Supervisor: Dr. Yoshitaka Tateyama and Dr. Taro Hitosugi <br/>
       Thesis: Theoretical study on microscopic solid-state ionics of correlated ion transport <br/>
-			Keywords: Molecular dynamics, All-solid state battery, Solid Electrolyte, Ionic Conductivity, Nonequilibrium thermodynamics
-			</p>
-		</div>
-	</div>
-</li>
-
-<li>
-	<div class='timeline-item'>
-		<!-- <img class='timeline-image'  src="../assets/uoc.jpeg" width="50" height="50" float="left"> -->
-		<div class='timeline-text'>
-			<p>
-			<i>April 2019 - March 2023, Tokyo, Japan</i> <br/>
-			Tokyo Tech Academy for Convergence of Materials and Informatics (TAC-MI), Tokyo Institute of Technology <br/>
+			<!-- Keywords: Molecular dynamics, All-solid state battery, Solid Electrolyte, Ionic Conductivity, Nonequilibrium thermodynamics -->
 			</p>
 		</div>
 	</div>
@@ -49,7 +37,7 @@ Education
 			Supervisor: Dr. Susumu Kawauchi <br/>
       Thesis: Accelerating Molecular Dynamics Simulation of Liquid Crystals and Theoretical Investigation of the Heat Conductive Mechanism <br/>
       <!-- 液晶相の分子動力学計算の効率化と熱伝導機構の理論的解明 -->
-			Keywords: Molecular dynamics, Liquid crystal, Thermal conductivity, Phase transition, Nonequilibrium thermodynamics, Polymer
+			<!-- Keywords: Molecular dynamics, Liquid crystal, Thermal conductivity, Phase transition, Nonequilibrium thermodynamics, Polymer -->
 			</p>
 		</div>
 	</div>
@@ -64,7 +52,7 @@ Education
 			BSc, Department of Chemistry, Tokyo Institute of Technology <br/>
       Supervisor: Dr. Noriyuki Kochi <br/>
       Thesis: Doubly excited states of CH4 and NH3 studied by projective observation of Lyman-α photon detection<br/>
-      Keywords: Atomic and molecular physics, Doubly excited state, Synchrotron radiation experiment <br/>
+      <!-- Keywords: Atomic and molecular physics, Doubly excited state, Synchrotron radiation experiment <br/> -->
 			</p>
 		</div>
 	</div>

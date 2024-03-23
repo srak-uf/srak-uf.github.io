@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryoma Sasaki"
+title                    : "Ryoma Sasaki / 佐々木 遼馬"
 title_separator          : "-"
-name                     : &name "Ryoma Sasaki"
+name                     : &name "Ryoma Sasaki / 佐々木 遼馬"
 description              : &description "Researcher at ???"
 url                      : https://srak-uf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
