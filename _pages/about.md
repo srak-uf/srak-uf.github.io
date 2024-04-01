@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a ??? researcher at ??? where I study computational materials science using high performance computing (molecular dynamics and quantum chemical calculation), statistical physics, and machine learning. 
+I am an Assistant Professor in Tokyo Institute of Technology where I study computational materials science using high performance computing (molecular dynamics and quantum chemical calculation), statistical physics, and machine learning. 
 
 I graduated with PhD (Engineering) from the Department of Chemical Science and Engineering at Tokyo Institute of Technology. 
 For more information, see my CV.
@@ -29,5 +29,5 @@ I am interested in **atomistic-scale transport phenomena** of practical material
 
 News
 ======
-<!-- 2024/04/01: 東京工業大学の科学技術創成研究院・化学生命科学研究所にて助教として着任しました。   -->
-2024/03/22: Opened individual web page!
+2024/04/01: I have joined the Tokyo Institute of Technology as an Assistant Professor at the Institute of Chemical and Life Sciences.
+2024/03/22: Opened the personal website!
