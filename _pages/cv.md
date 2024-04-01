@@ -67,9 +67,9 @@ Work experience
 		<!-- <img class='timeline-image'  src="../assets/msr.jpeg" width="50" style="margin-right:5px; margin-left:5px;" height="50" float="left"> -->
 		<div class='timeline-text'>
 			<p>
-			<i>April 2024 - Present, ?????, Japan</i> <br/>
-			????? researcher, ???? University <br/>
-			Topics: Hoge
+			<i>April 2024 - Present, Tokyo, Japan</i> <br/>
+			Assistant Professor, Institute of Innovative Research,Tokyo Institute of Technology <br/>
+			<!-- Topics: Hoge -->
 			</p>
 		</div>
 	</div>
