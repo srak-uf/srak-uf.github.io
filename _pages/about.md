@@ -29,5 +29,5 @@ I am interested in **atomistic-scale transport phenomena** of practical material
 
 News
 ======
-2024/04/01: I have joined the Tokyo Institute of Technology as an Assistant Professor at the Institute of Chemical and Life Sciences.
-2024/03/22: Opened the personal website!
+- 2024/04/01: I have joined the Tokyo Institute of Technology as an Assistant Professor at the Institute of Chemical and Life Sciences.  
+- 2024/03/22: Opened the personal website!
