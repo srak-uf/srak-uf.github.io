@@ -34,8 +34,8 @@ This page is written in my native language, Japanese, and should contain the sam
   - 修博一貫プログラム：物質・情報卓越教育院（TAC-MI）修了
 - 2023年4月-2024年3月  住友化学 デジタル革新部・R&Dデータ科学チーム
   - データサイエンティストとしての研究業務・全社DX推進
-<!-- - 2024年4月-現在  東京工業大学 科学技術創成研究院・化学生命科学研究所 助教 -->
-  <!-- - 研究室: 館山・安藤研究室 -->
+- 2024年4月-現在  東京工業大学 科学技術創成研究院・化学生命科学研究所 助教
+   - 研究室: 館山・安藤研究室
 
 
 ## 主な研究内容
@@ -49,7 +49,7 @@ This page is written in my native language, Japanese, and should contain the sam
     [R. Sasaki\* *et al.*, *npj. Comput. Mater.*, **9**, 48 (2023).](https://www.nature.com/articles/s41524-023-00996-8)
   - 有機分子結晶電解質の"柔らかさ"を活かした特異な高速イオン伝導機構の理論的解明  
     [R. Sasaki\* *et al.*, *J. Mater. Chem. A*, **9**, 14897-14903 (2021).](https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta02809j#!divCitation)
-  - [博士論文の解説記事](https://www.jstage.jst.go.jp/browse/mssj/list/-char/ja)
+  - [博士論文の解説記事](https://www.jstage.jst.go.jp/article/mssj/25/2/25_171/_article/-char/ja)
 
 - **液晶** / 「***液体***」と「***結晶***」の中間相
   - 理論手法開発: 相転移シミュレーションの高速化・液晶相の再現に必要な誘電相互作用  
