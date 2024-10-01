@@ -10,7 +10,7 @@ redirect_from:
 
 This page is written in my native language, Japanese, and should contain the same information as in the other sections of this website.
 
-東京工業大学 科学技術創成研究院・化学生命科学研究所 にて助教をしている佐々木遼馬と申します。現在，[館山佳尚](https://www.cd-mach.cls.iir.titech.ac.jp/?page_id=479) 先生の主宰する [Computational & Data-driven Materials Chemistry (CD-Mach) group](https://www.cd-mach.cls.iir.titech.ac.jp/) に所属しています。
+東京科学大学 総合研究院・化学生命科学研究所 にて助教をしている佐々木遼馬と申します。現在，[館山佳尚](https://www.cd-mach.cls.iir.titech.ac.jp/?page_id=479) 先生の主宰する [Computational & Data-driven Materials Chemistry (CD-Mach) group](https://www.cd-mach.cls.iir.titech.ac.jp/) に所属しています。
 
 私の主な研究分野は、計算物質科学です。特にイオン伝導や熱伝導をはじめとする ***流れ (輸送現象)*** に興味を持ち、非平衡熱力学をベースとする理論計算手法の新規開発、および分子動力学シミュレーションを用いた実材料での応用計算で「実験では見られない」原子・分子スケールでの現象の理解・材料設計に興味を持っています。
 
@@ -35,7 +35,7 @@ This page is written in my native language, Japanese, and should contain the sam
   - 修博一貫プログラム：物質・情報卓越教育院（TAC-MI）修了
 - 2023年4月-2024年3月  住友化学 デジタル革新部・R&Dデータ科学チーム
   - データサイエンティストとしての研究業務・全社DX推進
-- 2024年4月-現在  東京工業大学 科学技術創成研究院・化学生命科学研究所 助教
+- 2024年4月-現在  東京科学大学 総合研究院（旧：東京工業大学 科学技術創成研究院）・化学生命科学研究所 助教
    - 研究室: 館山・安藤研究室
 
 
