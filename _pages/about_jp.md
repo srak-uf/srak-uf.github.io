@@ -15,11 +15,17 @@ This page is written in my native language, Japanese, and should contain the sam
 私の主な研究分野は、計算物質科学です。特にイオン伝導や熱伝導をはじめとする ***流れ (輸送現象)*** に興味を持ち、非平衡熱力学をベースとする理論計算手法の新規開発、および分子動力学シミュレーションを用いた実材料での応用計算で「実験では見られない」原子・分子スケールでの現象の理解・材料設計に興味を持っています。
 
 ## ニュース
-- 2024/08/01: 科研費「研究活動スタート支援」にて課題「[定電流非平衡分子動力学法の開発とコンポジット電解質への展開](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K23099/)」が採択されました。
-- 2024/04/01: 東京工業大学の科学技術創成研究院・化学生命科学研究所にて助教として着任しました。
-- 2024/03/22: 個人用ホームページを開設
+- 2025/02/20  
+  電池材料のイオン伝導度計算の高速・高精度化を可能にする新手法：[定電流非平衡分子動力学に関する論文](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.4.013005)がPRX Energy誌から出版されました。本研究は、クイーンズランド大・Debra Bernhardt (Searles)教授との共同研究成果です。また、[東京科学大](https://www.isct.ac.jp/ja/news/42dr5v9j4t5d)と[科学技術振興機構](https://www.jst.go.jp/pr/announce/20250220/index.html)から共同プレスリリースを実施しました。
+- 2024/08/01  
+  科研費「研究活動スタート支援」にて課題「[定電流非平衡分子動力学法の開発とコンポジット電解質への展開](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K23099/)」が採択されました。
+- 2024/04/01  
+  東京工業大学の科学技術創成研究院・化学生命科学研究所にて助教として着任しました。
+- 2024/03/22  
+  個人用ホームページを開設
 
 ## 略歴
+- 2014年3月  愛知県立明和高等学校卒業
 - 2014年4月  東京工業大学 工学部・第3類 入学
 - 2015年4月-2018年3月  東京工業大学 理学部・化学科 卒業
   - 卒業論文: Lyman-α光子検出の射影観測による二電子励起CH4およびNH3分子の研究
@@ -47,7 +53,8 @@ This page is written in my native language, Japanese, and should contain the sam
 下記がこれまでの主要な研究成果です。
 - **固体電解質** / 「***液体***」のようにイオンが流れる「***固体***」
   - 理論手法開発: イオン同士の相関が考慮されたイオン伝導度計算の高速化  
-    [R. Sasaki\* *et al.*, *npj. Comput. Mater.*, **9**, 48 (2023).](https://www.nature.com/articles/s41524-023-00996-8)
+    [R. Sasaki\* *et al.*, *npj. Comput. Mater.*, **9**, 48 (2023).](https://www.nature.com/articles/s41524-023-00996-8)  
+    [R. Sasaki\* *et al.*, *PRX Energy*, **4**, 013005 (2025).](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.4.013005)
   - 有機分子結晶電解質の"柔らかさ"を活かした特異な高速イオン伝導機構の理論的解明  
     [R. Sasaki\* *et al.*, *J. Mater. Chem. A*, **9**, 14897-14903 (2021).](https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta02809j#!divCitation)
   - [博士論文の解説記事](https://www.jstage.jst.go.jp/article/mssj/25/2/25_171/_article/-char/ja)
