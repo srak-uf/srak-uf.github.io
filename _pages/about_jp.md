@@ -15,6 +15,8 @@ This page is written in my native language, Japanese, and should contain the sam
 私の主な研究分野は、計算物質科学です。特にイオン伝導や熱伝導をはじめとする ***流れ (輸送現象)*** に興味を持ち、非平衡熱力学をベースとする理論計算手法の新規開発、および分子動力学シミュレーションを用いた実材料での応用計算で「実験では見られない」原子・分子スケールでの現象の理解・材料設計に興味を持っています。
 
 ## ニュース
+# - 2025/04/01
+#   科研費「若手研究」にて課題「[hogehoge](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K23099/)」が採択されました。
 - 2025/02/20  
   電池材料のイオン伝導度計算の高速・高精度化を可能にする新手法：[定電流非平衡分子動力学に関する論文](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.4.013005)がPRX Energy誌から出版されました。本研究は、クイーンズランド大・Debra Bernhardt (Searles)教授との共同研究成果です。また、[東京科学大](https://www.isct.ac.jp/ja/news/42dr5v9j4t5d)と[科学技術振興機構](https://www.jst.go.jp/pr/announce/20250220/index.html)から共同プレスリリースを実施しました。[日経新聞電子版](https://www.nikkei.com/article/DGXZRSP687264_Q5A220C2000000/)、[EE Times Japan](https://eetimes.itmedia.co.jp/ee/articles/2502/26/news078.html)に掲載されました。
 - 2024/08/01  
