@@ -48,8 +48,8 @@ tags:
 - [ ] 物理量又は順序数のような数学的変数を表す添字がItalicになっているか？
 - [ ] 単語又は数を表す添字は，Romanか？
   - ボルツマン定数: $k_{\mathrm{B}}$ ... Bに物理的意味はないのでRoman
-  - 粒子iの位置: **r**$_{i}$
-  - 定積熱容量: $C_{V}$ ... VはVolumeで物理量なのでItalic  
+  - 粒子iの位置: **r**<sub>*i*</sub>
+  - 定積熱容量: *C*<sub>*V*</sub> ... VはVolumeで物理量なのでItalic  
 - [ ] 「〜と考えられる」は出来るだけ避けたか？
   - prove / show / demonstrate / suggest / indicate / supportを使い分ける
   - 補足: 〜と考えられるで be considered as は論文で使わない
