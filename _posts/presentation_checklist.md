@@ -1,7 +1,7 @@
 ---
 title: 'プレゼンチェックリスト'
 date: 2025-09-25
-permalink: /posts/presentation_checklist
+permalink: /posts/presentation
 tags:
   - Teaching
   - Checklist
