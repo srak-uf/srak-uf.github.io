@@ -59,7 +59,7 @@ tags:
   - 自身の研究のエッセンスを表すキーワードを決めているか？  
     → キーワードを使い回すことで、聴衆の記憶に刷り込む。
 
-## Introduction = 研究が何故必要かを伝える = 一言でいうと、Literature Review
+## Introduction = 自分の研究が何故必要かを伝える
 流れとしては、  
 テーマ or 主題明示 or Research Question  
 &rarr; Literature review  
